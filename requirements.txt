@@ -1,0 +1,8 @@
+duckdb
+pandas
+numpy
+plotly
+streamlit
+anthropic
+pytest
+ruff
